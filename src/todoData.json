@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "todo uygulaması yapılacak",
+        "isDone": false
+    },
+    {
+        "id": 2,
+        "name": "ev işleri halledilecek ",
+        "isDone": true
+
+    },
+    {
+        "id": 3,
+        "name": "bilgisayarlar silinecek",
+        "isDone": false
+
+    },
+    {
+        "id": 4,
+        "name": "spor yapılacak ",
+        "isDone": true
+
+    },
+    {
+        "id": 5,
+        "name": "duş alınacak",
+        "isDone": true
+
+    },
+    {
+        "id": 6,
+        "name": "yemek yapılacak ",
+        "isDone": false
+
+    },
+    {
+        "id": 7,
+        "name": "dışarı işleri halledilecek",
+        "isDone": false
+
+    },
+    {
+        "id": 8,
+        "name": "dizi izlenecek",
+        "isDone": false
+
+    }
+
+]
